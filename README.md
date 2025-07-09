@@ -147,3 +147,10 @@ See [README_docker.md](README_docker.md) for full instructions.
 ## License
 This code is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
+
+<br>
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=lorek&repo=Lectures_on_Monte_Carlo_Theory&label=Repo%20views)
