@@ -145,4 +145,5 @@ In rare cases, if installing with Conda does not fully reproduce the expected re
 See [README_docker.md](README_docker.md) for full instructions.
  
 ## License
-This code is provided under the MIT License.
+This code is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
+
