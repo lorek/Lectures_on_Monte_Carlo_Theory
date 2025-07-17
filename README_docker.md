@@ -1,13 +1,26 @@
 # Running the Code with Docker
 
-|  Book title&nbsp;&nbsp;&nbsp;&nbsp;       | Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Authors**       | Paweł Lorek and Tomasz Rolski                                                                                                  |
-| **Affiliation**   | University of Wrocław, Poland                                                                                                          |
-| **Publisher**     | Springer, 2025                                                                                                                 |
-| **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893)                                           |
-| **Series**        | *Probability Theory and Stochastic Modelling*                                                                                  |
-| **ISBN**          | 978-3-032-01189-3                                                                                                              |
+
+<table>
+<tr>
+<td>
+<img src="book_cover.png" alt="Book cover" width="210"/>
+</td>
+<td>
+
+| Book title&nbsp;&nbsp;&nbsp;&nbsp; | Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Authors**                        | Paweł Lorek and Tomasz Rolski                                                                                                   |
+| **Contact** | pawel.lorek [at] math.uni.wroc.pl<br>tomasz.rolski [at] math.uni.wroc.pl                                                            |
+| **Affiliation**                    | University of Wrocław, Poland                                                                                                   |
+| **Publisher**                      | Springer, 2025                                                                                                                  |
+| **Springer link**                  | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893)                                            |
+| **Series**                         | *Probability Theory and Stochastic Modelling*                                                                                   |
+| **ISBN**                           | 978-3-032-01189-3                                                                                                               |
+
+</td>
+</tr>
+</table>
 
 
 This document explains how to run all Python scripts from the `Lectures_on_Monte_Carlo_Theory` directory using Docker, without requiring a local installation of Python or Conda. The provided Docker setup ensures full reproducibility of the code examples and dependencies.
