@@ -38,9 +38,8 @@ os.makedirs(results_path, exist_ok=True)
 
 # Set seed: if user provided "none" (case-insensitive), seed is set to None (unseeded); otherwise, convert input to int.
 seed = None if args.seed.lower() == "none" else int(args.seed)
-rng = np.random.default_rng(np.random.PCG64(seed=seed))
 
-prng = default_rng(PCG64(seed=31415))   # PCG64 with seed for reproducibility
+prng = default_rng(PCG64(seed=seed))   # PCG64 with seed for reproducibility
 steps = 2 * prng.integers(0, 2, size=2*N) - 1 # random steps: +1 or -1
 
 S = np.zeros(2*N + 1)
